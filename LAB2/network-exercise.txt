@@ -1,0 +1,2 @@
+Na .png widoczne są utworzone zasoby potrzebne do wykonania zadania.
+Brak screena z pingiem między maszynami natomiast po ustawieniu obu maszynom myNetwork i połączeniu się przez bastion ping działał poprawnie
